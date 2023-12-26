@@ -1,4 +1,9 @@
 {
     "userspace_version": "1.0",
-    "build_targets": []
+    "build_targets": [
+        ["keychron/q6/ansi_encoder", "custom_1"],
+        ["keychron/q6/ansi_encoder", "custom_1_num"],
+        ["keychron/v6/ansi_encoder", "solid_red"],
+        ["keychron/v6/ansi_encoder", "solid_red_num"]
+    ]
 }
